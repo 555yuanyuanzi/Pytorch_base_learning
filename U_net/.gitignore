@@ -1,0 +1,5 @@
+.idea
+__pycache__
+params/unet.pth
+train_image/*
+data/VOC/*
